@@ -82,6 +82,9 @@
     <Filter Include="Src\Application\Object\Player">
       <UniqueIdentifier>{afed5b35-c114-4014-8891-b01460cadb9a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Src\Application\Object\Enemy">
+      <UniqueIdentifier>{dfe68628-ebdd-4b70-9fb3-3c0f103e060f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Pch.h">
